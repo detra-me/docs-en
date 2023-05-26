@@ -20,7 +20,7 @@ Key goals of Detra Protocol include:
 
 Detra Protocol relies on the following technical solutions to ensure its functionality and reliability:
 
-3.1 **Blockchain and Smart Contracts**: Detra Protocol utilizes blockchain technology to secure, transparent, and reliable transactions. We have chosen the Polygon blockchain as the initial network for Detra Protocol due to its scalability, low fees, and fast transaction confirmation times. Smart contracts are developed and deployed on the Detra Protocol blockchain, enabling the automatic execution of agreements and ensuring the reliability of all transactions on the platform.
+3.1 **Blockchain and Smart Contracts**: Detra Protocol utilizes blockchain technology to secure, transparent, and reliable transactions. We have chosen the Polygon blockchain as the initial network for Detra Protocol due to its scalability, low fees, and fast transaction confirmation times.&#x20;
 
 3.2 **NFT Marketplace**: Detra Protocol provides an intuitive user interface and marketplace where creators can create, sell, and manage their unique NFT assets. Creators can upload their digital creations to the platform, where they are transformed into unique NFT assets that cannot be copied or forged. Users can browse and purchase these unique NFT assets, supporting and inspiring the creators.
 
