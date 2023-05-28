@@ -1,21 +1,19 @@
 # 💟 Description
 
-🚀 Welcome to [Detra Protocol](https://app.detra.me), a magical digital world where creative ideas and unique creations turn into special digital "items", known as NFT assets (NFT stands for "Non-Fungible Tokens" - these are unique digital objects that can't be copied. Every NFT has a unique owner). We are not just a marketplace, we've created an entire universe filled with art, music, books, applications, and a myriad of other digital creations. So, what makes Detra special? Relax and have a seat, we'll explain it all!
+🚀 Welcome to the Detra NFT Marketplace and Detra Protocol, an innovative universe where creativity merges with technology to create unique digital art pieces - NFTs. Detra isn't merely another NFT platform, it's a revolution in the NFT and copyright world.
 
-💎 The first feature of Detra is the uniqueness of our goods. We offer a platform for artists, musicians, writers, developers, and many others to create limited series of their work and transform them into unique NFTs. Each NFT becomes a collectible item in the digital world, creating value and uniqueness for its owner.
+💎 The first thing that sets us apart is our unique ability to encrypt the content of the NFTs. This means your NFT remains hidden to everyone except you, the creator, and those who have acquired the NFT. This opens up new possibilities for authors, app developers, and many others, ensuring the uniqueness and protection of their work.
 
-💰 The second feature is the opportunity for creators to earn from their creativity. On our platform, creators can sell their NFTs, and then continue to earn a share from each subsequent sale of these NFTs. It's like receiving a commission from every subsequent sale of your work.
+💰 Secondly, it's our ability to ensure the reliability and availability of your NFTs. We utilize the InterPlanetary File System (IPFS) and BitTorrent File System (BTFS) for data storage, guaranteeing permanent access to your creations.
 
-👥 The third feature of Detra is the creation of fan clubs. On our platform, creators can create their clubs for fans, access to which is available only to the owners of their NFTs. This creates a unique community where fans can interact with creators and other NFT owners.
+👥 The third feature is our unique ability to create exclusive communities around each NFT. In Detra, creators can form 'VIP lounges' or exclusive subscriptions for their fans, granting access only to their NFT holders.
 
-✅ The fourth feature is the engagement of fans in the creative process. On Detra, creators can hold votes among the owners of their NFTs. This means that you, as an owner, can influence what the creator will do next.
+📣 Fourthly, it's the automatic promotion of creators. Unlike other platforms like Patreon, Boosty, and their crypto counterparts, Detra provides passive promotion for creators through our intelligent algorithms that suggest items to users based on their interests.
 
-🔒 The fifth feature is security. Thanks to blockchain technology (it's a system of data storage that makes all transactions absolutely transparent and secure), you can be sure that your data and assets are safe.
+✅ The fifth feature is the engagement of NFT owners in the creative process. At Detra, creators can conduct votes among their NFT holders, giving them the opportunity to influence future projects.
 
-🌐 The sixth feature is the ability to interact with our platform. In Detra, you can become a validator (a person who checks and confirms transactions on the platform) or a storage provider (a person who stores data on the platform), and receive a reward for this.
+💡 The sixth feature is innovative tools like stable diffusion and GPT, which assist creators in bringing their ideas to life.
 
-💡 The seventh feature is our intelligent tools that will help you bring your creative ideas to life. We offer GPT for creating texts (it's an artificial intelligence that can assist in creating texts) and Stable Diffusion for creating media content (a tool that can assist in creating visual content).
+🌐 Seventh, but not least, is the fact that we give full control over NFT collections to users, unlike other platforms where the user simply mints a token within an existing collection.
 
-📣 The eighth and possibly one of the most important features is the automatic promotion of authors. Unlike other platforms such as Patreon, Boosty, and their crypto analogs, on Detra authors get passive promotion thanks to our intelligent algorithms that suggest goods to the user according to their interests.
-
-Detra Protocol is a place where creators and fans can meet, communicate, create, and exchange unique works of art and culture. Here everyone can find their unique place and contribute to this amazing digital universe. Join us and discover a world of new opportunities and perspectives!
+In conclusion, the Detra NFT Marketplace and Detra Protocol is a space where creativity, technology, and community blend together, creating a unique realm for creators and fans alike. We're here to support and transform the creative process, offering novel ways of interaction and championing creators in their pursuit of creativity. Join our journey and become part of this amazing digital universe!
