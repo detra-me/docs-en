@@ -1,6 +1,6 @@
 # ⚠ Lite Paper
 
-### ntroduction
+### Introduction
 
 Welcome to Detra NFT Marketplace and Detra Protocol - an innovative world where creativity and technology merge to create unique digital art pieces, known as NFTs. Detra is not just another NFT platform; it's a revolution in the world of NFT and copyright.
 
